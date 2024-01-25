@@ -1,0 +1,148 @@
+b'Name                                                                     
+Python 3.10.9 Documentation (64-bit)                                     
+Webex                                                                    
+Python 3.10.9 Add to Path (64-bit)                                       
+Python 3.10.9 Test Suite (64-bit)                                        
+PuTTY release 0.78 (64-bit)                                              
+Python 3.10.9 Utility Scripts (64-bit)                                   
+Python 3.10.9 Executables (64-bit)                                       
+Python 3.10.9 Core Interpreter (64-bit)                                  
+Python 3.10.9 Tcl/Tk Support (64-bit)                                    
+Software B\xa1blico Logos                                                   
+Python 3.10.9 pip Bootstrap (64-bit)                                     
+Python 3.10.9 Development Libraries (64-bit)                             
+3CX Desktop App                                                          
+Python 3.10.9 Standard Library (64-bit)                                  
+Office 16 Click-to-Run Extensibility Component                           
+Office 16 Click-to-Run Localization Component                            
+Office 16 Click-to-Run Localization Component                            
+Office 16 Click-to-Run Licensing Component                               
+SQL Server 2019 Master Data Services                                     
+Proveedor OLE DB de Microsoft Analysis Services                          
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.32.31326           
+SQL Server 2019 Distributed Replay                                       
+Dell SupportAssist Remediation                                           
+Dell SupportAssist OS Recovery Plugin for Dell Update                    
+Intel(R) Connectivity Performance Suite for Dell                         
+SQL Server 2019 Data quality client                                      
+Microsoft SQL Server 2019 T-SQL Language Service                         
+SQL Server 2019 Data quality service                                     
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219              
+Proveedor OLE DB de Microsoft Analysis Services                          
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664               
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219              
+Microsoft Web Deploy 4.0                                                 
+SQL Server 2019 Client Tools Extensions                                  
+IIS 10.0 Express                                                         
+Dell Optimizer                                                           
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.36.32532           
+SQL Server 2019 XEvent                                                   
+Microsoft Visual Studio Tools for Applications 2019 x64 Hosting Support  
+Rosetta Stone Language Training                                          
+MyDell Components Installer                                              
+Epson Customer Participation                                             
+SQL Server 2019 Connection Info                                          
+SQL Server 2019 DMF                                                      
+Dell Digital Delivery Services                                           
+VMware Horizon Client                                                    
+MyDell Customer Connect                                                  
+SQL Server 2019 Client Tools                                             
+Microsoft MPI (10.0.12498.5)                                             
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664               
+Microsoft Visual Studio Tools for Applications 2019 x86 Hosting Support  
+Pulse Secure                                                             
+SQL Server 2019 SQL Data Quality Common                                  
+Epson Event Manager                                                      
+Integration Services                                                     
+Microsoft SQL Server 2019 RsFx Driver                                    
+Microsoft VSS Writer for SQL Server 2019                                 
+SQL Server 2019 Client Tools Extensions                                  
+Dell Core Services                                                       
+SQL Server Management Studio                                             
+Microsoft .NET Host - 6.0.20 (x64)                                       
+SQL Server 2019 Data quality client                                      
+QuickTime 7                                                              
+Dell Update for Windows Universal                                        
+Compatibilidad con Aplicaciones de Apple                                 
+SQL Server 2019 Connection Info                                          
+SQL Server 2019 Client Tools                                             
+Microsoft Help Viewer 2.3                                                
+Epson Software Updater                                                   
+Adobe Acrobat                                                            
+Rosetta Stone Ltd Services                                               
+SQL Server 2019 Integration Services Worker Agent                        
+SQL Server 2019 Analysis Services                                        
+SQL Server 2019 Database Engine Shared                                   
+Browser for SQL Server 2019                                              
+Microsoft OLE DB Driver for SQL Server                                   
+Microsoft SQL Server 2012 Native Client                                  
+SQL Server 2019 DMF                                                      
+SSMS Post Install Tasks                                                  
+SQL Server 2019 Shared Management Objects Extensions                     
+SQL Server 2019 Analysis Services                                        
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030            
+SQL Server 2019 SQL Diagnostics                                          
+EpsonNet Print                                                           
+Visual Studio 2017 Shell (aislado) para SSMS (LangPack): espa\xa4ol         
+Microsoft SQL Server 2019 LocalDB                                        
+SQL Server 2019 Shared Management Objects                                
+                                                                         
+SQL Server 2019 Common Files                                             
+Microsoft .NET Runtime - 6.0.18 (x64)                                    
+SQL Server 2019 Distributed Replay                                       
+Node.js                                                                  
+Paquete de idioma de Visor de Ayuda de Microsoft 2.3 - ESN               
+Apple Software Update                                                    
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664            
+SQL Server 2019 Shared Management Objects Extensions                     
+SQL Server 2019 Batch Parser                                             
+SQL Server 2019 Integration Services Master Service                      
+SQL Server 2019 Shared Management Objects                                
+Macrium Reflect Workstation                                              
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030            
+SQL Server 2019 Full text search                                         
+SQL Server 2019 Data quality service                                     
+MyDell Application Management                                            
+Microsoft Visual C++ 2005 Redistributable                                
+SQL Server 2019 Database Engine Services                                 
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030               
+SQL Server 2019 Integration Services                                     
+VMware Workstation                                                       
+SQL Server 2019 Database Engine Shared                                   
+Microsoft .NET Runtime - 6.0.20 (x64)                                    
+Microsoft ODBC Driver 17 for SQL Server                                  
+SQL Server 2019 Master Data Services                                     
+VMware Horizon Media Redirection for Microsoft Teams                     
+Windows SDK AddOn                                                        
+Dell SupportAssist                                                       
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664            
+SQL Server 2019 Integration Services                                     
+Microsoft Visual Studio Tools for Applications 2017 x64 Hosting Support  
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030               
+SQL Server 2019 Common Files                                             
+SQL Server 2019 Integration Services Worker Agent                        
+vs_CoreEditorFonts                                                       
+VMware Horizon HTML5 Multimedia Redirection Client                       
+Epson Printer Connection Checker                                         
+Microsoft SQL Server 2019 Setup (English)                                
+Microsoft Update Health Tools                                            
+SQL Server 2019 XEvent                                                   
+Microsoft Visual Studio Tools for Applications 2017 x86 Hosting Support  
+SQL Server 2019 Database Engine Services                                 
+Chrome Remote Desktop Host                                               
+SQL Server 2019 Distributed Replay                                       
+MSVCRT Redists                                                           
+SOUND FORGE Pro 16.1 Suite (x64)                                         
+SQL Server 2019 Distributed Replay                                       
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.36.32532              
+Microsoft Windows Desktop Runtime - 6.0.18 (x64)                         
+Python Launcher                                                          
+Microsoft .NET Host FX Resolver - 6.0.18 (x64)                           
+Visual Studio 2017 Isolated Shell for SSMS                               
+SQL Server 2019 Integration Services Master Service                      
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.32.31326              
+Paquete de idioma de SQL Server Management Studio - Espa\xa4ol              
+Microsoft .NET Host FX Resolver - 6.0.20 (x64)                           
+PuTTY release 0.79 (64-bit)                                              
+
+'
