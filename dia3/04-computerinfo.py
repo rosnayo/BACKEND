@@ -34,5 +34,3 @@ if __name__ ==  '__main__':
     print("PROGRAMAS INSTALADOS : ")
     print(info_programas)
     guardar_info('programas.txt',info_programas)
-
-    

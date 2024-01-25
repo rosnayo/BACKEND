@@ -1,23 +1,17 @@
-#Crear un archivo
+#crear un nuevo archivo
 archivo = open('alumnos.txt','w')
-#Escribir en el archivo
-archivo.write("Rafael Osnayo, rafaelosnayo@hotmail.com, 9999999999")
-#Cerrar el archivo
+archivo.write('cesar mayta,cesar@gmail.com,9888282')
 archivo.close()
 
-#Agregar a un archivo
+
+
 archivo_agregar = open('alumnos.txt','a')
-#Escribir en el archivo
-archivo_agregar.write("\n")
-archivo_agregar.write("Rocio Vega, correo@hotmail.com, 5555555555")
-#Cerrar el archivo
+archivo_agregar.write('\n')
+archivo_agregar.write('jorge perez,jorge@gmail.com,8979879')
 archivo_agregar.close()
 
-#Abrir para leer 
-archivo_lectura = open ('alumnos.txt', 'r')
-#Leer el contenido del archivo y guardarlo en una variable
+#abrir un archivo en modo lectura
+archivo_lectura = open('alumnos.txt','r')
 alumnos = archivo_lectura.read()
-#Imprimir solo los nombres de los alumnos
 print(alumnos)
 archivo_lectura.close()
-
